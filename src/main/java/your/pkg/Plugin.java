@@ -23,18 +23,18 @@ public class Plugin extends ActlistPlugin {
 		//setPluginUpdateCheckURI(URI.create("https://github.com/your-github-account/actlist-plugin-starter-kit/raw/master/update-check.js"));
 		
 		setPluginAuthor("John Doe");
-        /**
-         * or you could use hyper-link via
-         * setPluginAuthor("John Doe", URI.create("https://github.com/your-github-account/"));
-         */
+		/**
+		 * or you could use hyper-link via
+		 * setPluginAuthor("John Doe", URI.create("https://github.com/your-github-account/"));
+		 */
 		
 		setPluginDescription("You can set the description of your plugin");
-        /**
-         * or you could use file via
-         * setPluginDescription(getClass().getResource("/Plugin.description").toURI());
-         *
-         * ! you can set the plugin's ChangeLog and License with same way
-         */
+		/**
+		 * or you could use file via
+		 * setPluginDescription(getClass().getResource("/Plugin.description").toURI());
+		 *
+		 * ! you can set the plugin's ChangeLog and License with same way
+		 */
 		setPluginChangeLog(getClass().getResource("/Plugin.changelog").toURI());
 		setPluginLicense(getClass().getResource("/Plugin.license").toURI());
 	}
