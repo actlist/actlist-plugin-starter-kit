@@ -3,9 +3,8 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.BorderPane?>
 
-
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="250.0" prefWidth="310.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
    <center>
-      <Label text="You can delete or change /Plugin.fxml file" BorderPane.alignment="CENTER" />
+      <Label text="You can delete or change src/main/resources/your/pkg/Plugin.fxml file" textAlignment="CENTER" wrapText="true" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>
