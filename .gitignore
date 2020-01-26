@@ -1,4 +1,5 @@
 target/
+.mvn/
 .settings/
 .DS_Store
 .classpath
