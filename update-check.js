@@ -3,9 +3,9 @@
 //             the alphabetical character calculation like 'alpha' or 'beta' is excluded on this script.
 //====================================================================================================================
 var latestVersion = '1.3.0';		// change this value to what you want.
-var jar = 'https://github.com/your-github-account/actlist-plugin-starter-kit/releases/download/v1.3.0/starter-kit-1.3.0.jar';
+var jar = 'https://github.com/your-github-account/your-plugin-name/releases/download/v1.3.0/your-plugin-1.3.0.jar';
 //var requiredActlist   = '1.6.0';	// fill this value if necessary.
-var url = 'https://github.com/your-github-account/actlist-plugin-starter-kit/releases'; // change this value to what you want.
+var url = 'https://github.com/your-github-account/your-plugin-name/releases'; // change this value to what you want.
 //var killSwitchUntil   = '1.1.0';	// fill this value if necessary.
 //var endOfServiceUntil = '1.2.0';	// fill this value if necessary.
 //====================================================================================================================

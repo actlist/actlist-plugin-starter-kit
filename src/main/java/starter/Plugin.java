@@ -1,10 +1,16 @@
-package your.pkg;
+package starter;
 
 import java.net.URI;
 
 import org.silentsoft.actlist.plugin.ActlistPlugin;
 
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+
 public class Plugin extends ActlistPlugin {
+	
+	@FXML
+	private Button button;
 	
 	public static void main(String[] args) {
 		debug();
@@ -36,12 +42,16 @@ public class Plugin extends ActlistPlugin {
 		 * ! you can set the plugin's ChangeLog and License with same way
 		 */
 		setPluginChangeLog(getClass().getResource("/Plugin.changelog").toURI());
-		setPluginLicense(getClass().getResource("/Plugin.license").toURI());
+		//setPluginLicense(getClass().getResource("/Plugin.license").toURI());
 	}
 
 	@Override
 	protected void initialize() throws Exception {
 		System.out.println("#initialize");
+		
+		button.setOnMouseClicked(mouseEvent -> {
+			System.out.println("Hello World !");
+		});
 	}
 
 	@Override
@@ -53,5 +63,5 @@ public class Plugin extends ActlistPlugin {
 	public void pluginDeactivated() throws Exception {
 		System.out.println("#pluginDeactivated");
 	}
-
+	
 }

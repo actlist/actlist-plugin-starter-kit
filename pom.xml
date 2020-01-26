@@ -6,7 +6,7 @@
 	<artifactId>actlist-plugin-starter-kit</artifactId>
 	<version>1.0.0</version>
 	<properties>
-		<mainClass>your.pkg.Plugin</mainClass>
+		<mainClass>starter.Plugin</mainClass>
 	</properties>
 	<repositories>
 		<repository>
