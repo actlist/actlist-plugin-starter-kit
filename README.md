@@ -68,7 +68,7 @@ Just do focus only on coding to create what you want. and you can share with oth
           <dependency>
               <groupId>org.silentsoft</groupId>
               <artifactId>actlist-plugin</artifactId>
-              <version>1.6.0</version>
+              <version>1.7.0</version>
               <scope>provided</scope>
           </dependency>
       </dependencies>
