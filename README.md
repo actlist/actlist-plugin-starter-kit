@@ -11,7 +11,7 @@ Actlist will helps you to execute your desire things.
 
 Just do focus only on coding to create what you want. and you can share with others to makes better world.
 
-![](http://actlist.silentsoft.org/img/preview.png?token=da8b296e)
+![](http://actlist.silentsoft.org/img/preview.png?token=90777ed1)
 
 ## Prerequisites For Development
 * Oracle JDK 1.8 or Open JDK with JavaFx binary distribution
