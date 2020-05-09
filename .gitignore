@@ -1,3 +1,4 @@
+plugins/
 target/
 .mvn/
 .settings/
