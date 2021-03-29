@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/release-v1.0.0-blue.svg)
 ![](https://img.shields.io/badge/platform-windows%20%7C%20macosx-blue.svg)
-[![HitCount](http://hits.dwyl.io/silentsoft/actlist-plugin-starter-kit.svg)](http://hits.dwyl.io/silentsoft/actlist-plugin-starter-kit)
+[![HitCount](http://hits.dwyl.com/silentsoft/actlist-plugin-starter-kit.svg)](http://hits.dwyl.com/silentsoft/actlist-plugin-starter-kit)
 [![Gitter](https://badges.gitter.im/silentsoft/actlist.svg)](https://gitter.im/silentsoft/actlist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Easy and simply execute your own act list.
