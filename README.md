@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/release-v1.0.0-blue.svg)
 ![](https://img.shields.io/badge/platform-windows%20%7C%20macosx-blue.svg)
 [![Hits](https://hits.sh/github.com/silentsoft/actlist-plugin-starter-kit.svg)](https://hits.sh)
-[![Discord](https://img.shields.io/discord/873205203493593178?logo=discord)](https://discord.gg/Vx6RHgZb7f)
+[![Discord](https://img.shields.io/discord/873205203493593178?logo=discord)](https://discord.silentsoft.org/actlist)
 
 > Easy and simply execute your own act list.
 
