@@ -11,7 +11,7 @@ Actlist will helps you to execute your desire things.
 
 Just do focus only on coding to create what you want. and you can share with others to makes better world.
 
-![](http://actlist.silentsoft.org/img/preview.png?token=90777ed1)
+![](https://actlist.io/img/preview.png?token=90777ed1)
 
 ## Prerequisites For Development
 * Oracle JDK 1.8 or Open JDK with JavaFx binary distribution
@@ -21,7 +21,7 @@ Just do focus only on coding to create what you want. and you can share with oth
 * There are two ways to create an Actlist plugin. the first one is using starter-kit(which is highly recommended) and second one is creating java project manually.
 
   ### 1. using starter-kit
-    1. [Download starter kit](https://github.com/silentsoft/actlist-plugin-starter-kit/archive/master.zip)
+    1. [Download starter kit](https://github.com/actlist/actlist-plugin-starter-kit/archive/master.zip)
     2. Rename `master.zip` to the desired name and unzip it
     3. Enter the directory
     4. Initialize your project metadata
@@ -49,7 +49,7 @@ Just do focus only on coding to create what you want. and you can share with oth
   ### 2. or creating java project manually
     * Create a new Java project and configure to Maven project.
     * Add `parent` and `property` information to `pom.xml`
-      ```
+      ```xml
       <parent>
           <groupId>org.silentsoft</groupId>
           <artifactId>actlist-plugin-sdk</artifactId>
@@ -66,7 +66,7 @@ Just do focus only on coding to create what you want. and you can share with oth
     * Done.
       
       Here is an example source code of `Plugin.java`
-      ```
+      ```java
       package your.pkg;
       
       import org.silentsoft.actlist.plugin.ActlistPlugin;
@@ -119,4 +119,4 @@ Just do focus only on coding to create what you want. and you can share with oth
       }
       ```
 
-For more information on ActlistPlugin development, see [here](http://actlist.silentsoft.org/docs/quick-start/)
+For more information on ActlistPlugin development, see [here](https://actlist.io/docs/quick-start/)
