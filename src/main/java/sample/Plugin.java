@@ -1,4 +1,4 @@
-package starter;
+package sample;
 
 import java.net.URI;
 

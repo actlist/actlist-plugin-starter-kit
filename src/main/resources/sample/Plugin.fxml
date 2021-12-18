@@ -10,7 +10,7 @@
       <VBox alignment="CENTER" spacing="20.0" BorderPane.alignment="CENTER">
          <children>
             <Button fx:id="button" mnemonicParsing="false" text="Hello World !" />
-            <Label text="You can delete or change src/main/resources/starter/Plugin.fxml file" textAlignment="CENTER" wrapText="true" />
+            <Label text="You can delete or change src/main/resources/sample/Plugin.fxml file" textAlignment="CENTER" wrapText="true" />
          </children>
       </VBox>
    </center>
